@@ -1,7 +1,7 @@
 # Module_end_project_Python_EE_DSML
 This module end python programming project of Entri-Elevate DSML program is submitted by Navaneeth Krishnan S of Batch B1-ADV
 
-Based on the given dataset of employees working in ABC company, this module end project tries to provide a detailed explanation, report and answers to questions regarding employees in each team using python programming language. The dataset consists of 458 rows and 9 columns. The analysis report is completed and attached as a ‘Jupyter-notebook’ file.
+Based on the given dataset of employees working in ABC company, this module end project tries to provide a detailed explanation, report and answers to questions regarding employees in each team using python programming language. The dataset consists of 458 rows and 9 columns. The analysis report is completed and attached as a ‘Jupyter-notebook’ file. The processed dataset is also uploaded in the name 'myexcel.xlsx'.
 
 I performed data pre-processing directly in Excel for the dataset of employees working in ABC company. By using the concepts of numpy and pandas, matplotlib and seaborn in python programming, I identified how many players/employees are there in each team and their percentage splitting with respect to total employees. I segregated employees w.r.t different positions and found from which age group most of the employees belong to. Also, I added visualizations for the above three questions. Then found out under which team and position spending in terms of salary is high. And finally, I represented visually and found if there is any correlation between age and salary.
 
